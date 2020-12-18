@@ -142,7 +142,7 @@ textarea {
      font-size: 0px;
 }
 #add::after {
-     content: " fried req";
+     content: " friend req";
      font-size: 13px;
 }
 #block {
